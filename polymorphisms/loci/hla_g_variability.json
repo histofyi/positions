@@ -1,0 +1,6190 @@
+{
+    "unique_sequence_count": 36,
+    "variability": {
+        "1": {
+            "labels": [
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                25
+            ],
+            "variability": {
+                "G": 25
+            }
+        },
+        "2": {
+            "labels": [
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "S": 36
+            }
+        },
+        "3": {
+            "labels": [
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "H": 36
+            }
+        },
+        "4": {
+            "labels": [
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "S": 36
+            }
+        },
+        "5": {
+            "labels": [
+                "M"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "M": 36
+            }
+        },
+        "6": {
+            "labels": [
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "R": 36
+            }
+        },
+        "7": {
+            "labels": [
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Y": 36
+            }
+        },
+        "8": {
+            "labels": [
+                "F",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "F": 35,
+                "L": 1
+            }
+        },
+        "9": {
+            "labels": [
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "S": 36
+            }
+        },
+        "10": {
+            "labels": [
+                "A",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "T": 1
+            }
+        },
+        "11": {
+            "labels": [
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "A": 36
+            }
+        },
+        "12": {
+            "labels": [
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "V": 36
+            }
+        },
+        "13": {
+            "labels": [
+                "S",
+                "F"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "F": 1,
+                "S": 35
+            }
+        },
+        "14": {
+            "labels": [
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "R": 36
+            }
+        },
+        "15": {
+            "labels": [
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "P": 36
+            }
+        },
+        "16": {
+            "labels": [
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "G": 36
+            }
+        },
+        "17": {
+            "labels": [
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "R": 36
+            }
+        },
+        "18": {
+            "labels": [
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "G": 36
+            }
+        },
+        "19": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "20": {
+            "labels": [
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "P": 36
+            }
+        },
+        "21": {
+            "labels": [
+                "R",
+                "C"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "C": 1,
+                "R": 35
+            }
+        },
+        "22": {
+            "labels": [
+                "F"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "F": 36
+            }
+        },
+        "23": {
+            "labels": [
+                "I",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "I": 35,
+                "V": 1
+            }
+        },
+        "24": {
+            "labels": [
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "A": 36
+            }
+        },
+        "25": {
+            "labels": [
+                "M",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "M": 35,
+                "T": 1
+            }
+        },
+        "26": {
+            "labels": [
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "G": 36
+            }
+        },
+        "27": {
+            "labels": [
+                "H",
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                2.78,
+                97.22
+            ],
+            "rarities": [
+                "unique",
+                "highly_conserved"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                1,
+                35
+            ],
+            "variability": {
+                "H": 1,
+                "Y": 35
+            }
+        },
+        "28": {
+            "labels": [
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "V": 36
+            }
+        },
+        "29": {
+            "labels": [
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "D": 36
+            }
+        },
+        "30": {
+            "labels": [
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "D": 36
+            }
+        },
+        "31": {
+            "labels": [
+                "T",
+                "M",
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.0844759507076889,
+            "percentages": [
+                94.44,
+                2.78,
+                2.78
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.36509898470588065,
+            "values": [
+                34,
+                1,
+                1
+            ],
+            "variability": {
+                "M": 1,
+                "S": 1,
+                "T": 34
+            }
+        },
+        "32": {
+            "labels": [
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Q": 36
+            }
+        },
+        "33": {
+            "labels": [
+                "F"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "F": 36
+            }
+        },
+        "34": {
+            "labels": [
+                "V",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "V": 35
+            }
+        },
+        "35": {
+            "labels": [
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "R": 36
+            }
+        },
+        "36": {
+            "labels": [
+                "F"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "F": 36
+            }
+        },
+        "37": {
+            "labels": [
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "D": 36
+            }
+        },
+        "38": {
+            "labels": [
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "S": 36
+            }
+        },
+        "39": {
+            "labels": [
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "D": 36
+            }
+        },
+        "40": {
+            "labels": [
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "S": 36
+            }
+        },
+        "41": {
+            "labels": [
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "A": 36
+            }
+        },
+        "42": {
+            "labels": [
+                "C"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "C": 36
+            }
+        },
+        "43": {
+            "labels": [
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "P": 36
+            }
+        },
+        "44": {
+            "labels": [
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "R": 36
+            }
+        },
+        "45": {
+            "labels": [
+                "M"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "M": 36
+            }
+        },
+        "46": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "47": {
+            "labels": [
+                "P",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "P": 35
+            }
+        },
+        "48": {
+            "labels": [
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "R": 36
+            }
+        },
+        "49": {
+            "labels": [
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "A": 36
+            }
+        },
+        "50": {
+            "labels": [
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "P": 36
+            }
+        },
+        "51": {
+            "labels": [
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "W": 36
+            }
+        },
+        "52": {
+            "labels": [
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "V": 36
+            }
+        },
+        "53": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "54": {
+            "labels": [
+                "Q",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "Q": 35,
+                "R": 1
+            }
+        },
+        "55": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "56": {
+            "labels": [
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "G": 36
+            }
+        },
+        "57": {
+            "labels": [
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "P": 36
+            }
+        },
+        "58": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "59": {
+            "labels": [
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Y": 36
+            }
+        },
+        "60": {
+            "labels": [
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "W": 36
+            }
+        },
+        "61": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "62": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "63": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "64": {
+            "labels": [
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "T": 36
+            }
+        },
+        "65": {
+            "labels": [
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "R": 36
+            }
+        },
+        "66": {
+            "labels": [
+                "N"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "N": 36
+            }
+        },
+        "67": {
+            "labels": [
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "T": 36
+            }
+        },
+        "68": {
+            "labels": [
+                "K",
+                "M"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 35,
+                "M": 1
+            }
+        },
+        "69": {
+            "labels": [
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "A": 36
+            }
+        },
+        "70": {
+            "labels": [
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "H": 36
+            }
+        },
+        "71": {
+            "labels": [
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "A": 36
+            }
+        },
+        "72": {
+            "labels": [
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Q": 36
+            }
+        },
+        "73": {
+            "labels": [
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "T": 36
+            }
+        },
+        "74": {
+            "labels": [
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "D": 36
+            }
+        },
+        "75": {
+            "labels": [
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "R": 36
+            }
+        },
+        "76": {
+            "labels": [
+                "M"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "M": 36
+            }
+        },
+        "77": {
+            "labels": [
+                "N"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "N": 36
+            }
+        },
+        "78": {
+            "labels": [
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "L": 36
+            }
+        },
+        "79": {
+            "labels": [
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Q": 36
+            }
+        },
+        "80": {
+            "labels": [
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "T": 36
+            }
+        },
+        "81": {
+            "labels": [
+                "L",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 35,
+                "P": 1
+            }
+        },
+        "82": {
+            "labels": [
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "R": 36
+            }
+        },
+        "83": {
+            "labels": [
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "G": 36
+            }
+        },
+        "84": {
+            "labels": [
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Y": 36
+            }
+        },
+        "85": {
+            "labels": [
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Y": 36
+            }
+        },
+        "86": {
+            "labels": [
+                "N"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "N": 36
+            }
+        },
+        "87": {
+            "labels": [
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Q": 36
+            }
+        },
+        "88": {
+            "labels": [
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "S": 36
+            }
+        },
+        "89": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "90": {
+            "labels": [
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "A": 36
+            }
+        },
+        "91": {
+            "labels": [
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "S": 36
+            }
+        },
+        "92": {
+            "labels": [
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "S": 36
+            }
+        },
+        "93": {
+            "labels": [
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "H": 36
+            }
+        },
+        "94": {
+            "labels": [
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "T": 36
+            }
+        },
+        "95": {
+            "labels": [
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "L": 36
+            }
+        },
+        "96": {
+            "labels": [
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Q": 36
+            }
+        },
+        "97": {
+            "labels": [
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "W": 36
+            }
+        },
+        "98": {
+            "labels": [
+                "M"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "M": 36
+            }
+        },
+        "99": {
+            "labels": [
+                "I",
+                "F"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "F": 1,
+                "I": 35
+            }
+        },
+        "100": {
+            "labels": [
+                "G",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "G": 35
+            }
+        },
+        "101": {
+            "labels": [
+                "C"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "C": 36
+            }
+        },
+        "102": {
+            "labels": [
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "D": 36
+            }
+        },
+        "103": {
+            "labels": [
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "L": 36
+            }
+        },
+        "104": {
+            "labels": [
+                "G",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 35,
+                "V": 1
+            }
+        },
+        "105": {
+            "labels": [
+                "S",
+                "C"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "C": 1,
+                "S": 35
+            }
+        },
+        "106": {
+            "labels": [
+                "D",
+                "E",
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.0844759507076889,
+            "percentages": [
+                94.44,
+                2.78,
+                2.78
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.36509898470588065,
+            "values": [
+                34,
+                1,
+                1
+            ],
+            "variability": {
+                "D": 34,
+                "E": 1,
+                "H": 1
+            }
+        },
+        "107": {
+            "labels": [
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "G": 36
+            }
+        },
+        "108": {
+            "labels": [
+                "R",
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "R": 35,
+                "Y": 1
+            }
+        },
+        "109": {
+            "labels": [
+                "L",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "L": 35
+            }
+        },
+        "110": {
+            "labels": [
+                "L",
+                "I",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.22737114335306619,
+            "percentages": [
+                72.22,
+                25.0,
+                2.78
+            ],
+            "rarities": [
+                "majority",
+                "common",
+                "unique"
+            ],
+            "shannon_entropy": -0.9826817324242788,
+            "values": [
+                26,
+                9,
+                1
+            ],
+            "variability": {
+                "I": 9,
+                "L": 26,
+                "Q": 1
+            }
+        },
+        "111": {
+            "labels": [
+                "R",
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "R": 35,
+                "Y": 1
+            }
+        },
+        "112": {
+            "labels": [
+                "G",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "G": 35
+            }
+        },
+        "113": {
+            "labels": [
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Y": 36
+            }
+        },
+        "114": {
+            "labels": [
+                "E",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "E": 35
+            }
+        },
+        "115": {
+            "labels": [
+                "Q",
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 1,
+                "Q": 35
+            }
+        },
+        "116": {
+            "labels": [
+                "Y",
+                "K"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 1,
+                "Y": 35
+            }
+        },
+        "117": {
+            "labels": [
+                "A",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "D": 1
+            }
+        },
+        "118": {
+            "labels": [
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "Y": 36
+            }
+        },
+        "119": {
+            "labels": [
+                "D",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "L": 1
+            }
+        },
+        "120": {
+            "labels": [
+                "G",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "G": 35
+            }
+        },
+        "121": {
+            "labels": [
+                "K",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 35,
+                "L": 1
+            }
+        },
+        "122": {
+            "labels": [
+                "D",
+                "N"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "N": 1
+            }
+        },
+        "123": {
+            "labels": [
+                "Y",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "Y": 35
+            }
+        },
+        "124": {
+            "labels": [
+                "L",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "L": 35
+            }
+        },
+        "125": {
+            "labels": [
+                "A",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "L": 1
+            }
+        },
+        "126": {
+            "labels": [
+                "L",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 35,
+                "R": 1
+            }
+        },
+        "127": {
+            "labels": [
+                "N",
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "N": 35,
+                "S": 1
+            }
+        },
+        "128": {
+            "labels": [
+                "E",
+                "Q",
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.0844759507076889,
+            "percentages": [
+                94.44,
+                2.78,
+                2.78
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.36509898470588065,
+            "values": [
+                34,
+                1,
+                1
+            ],
+            "variability": {
+                "E": 34,
+                "Q": 1,
+                "W": 1
+            }
+        },
+        "129": {
+            "labels": [
+                "D",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "T": 1
+            }
+        },
+        "130": {
+            "labels": [
+                "L",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "L": 35
+            }
+        },
+        "131": {
+            "labels": [
+                "R",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "R": 35
+            }
+        },
+        "132": {
+            "labels": [
+                "S",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "S": 35
+            }
+        },
+        "133": {
+            "labels": [
+                "W",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "T": 1,
+                "W": 35
+            }
+        },
+        "134": {
+            "labels": [
+                "T",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "T": 35
+            }
+        },
+        "135": {
+            "labels": [
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "A": 36
+            }
+        },
+        "136": {
+            "labels": [
+                "A",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "Q": 1
+            }
+        },
+        "137": {
+            "labels": [
+                "D",
+                "I"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "I": 1
+            }
+        },
+        "138": {
+            "labels": [
+                "T",
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "S": 1,
+                "T": 35
+            }
+        },
+        "139": {
+            "labels": [
+                "A",
+                "E",
+                "K"
+            ],
+            "normalised_shannon_entropy": 0.0844759507076889,
+            "percentages": [
+                94.44,
+                2.78,
+                2.78
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.36509898470588065,
+            "values": [
+                34,
+                1,
+                1
+            ],
+            "variability": {
+                "A": 34,
+                "E": 1,
+                "K": 1
+            }
+        },
+        "140": {
+            "labels": [
+                "A",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "R": 1
+            }
+        },
+        "141": {
+            "labels": [
+                "Q",
+                "K"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 1,
+                "Q": 35
+            }
+        },
+        "142": {
+            "labels": [
+                "I",
+                "C"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "C": 1,
+                "I": 35
+            }
+        },
+        "143": {
+            "labels": [
+                "S",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "S": 35
+            }
+        },
+        "144": {
+            "labels": [
+                "K",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "K": 35
+            }
+        },
+        "145": {
+            "labels": [
+                "R",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "R": 35
+            }
+        },
+        "146": {
+            "labels": [
+                "K",
+                "N"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 35,
+                "N": 1
+            }
+        },
+        "147": {
+            "labels": [
+                "C",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "C": 35,
+                "V": 1
+            }
+        },
+        "148": {
+            "labels": [
+                "E",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "E": 35
+            }
+        },
+        "149": {
+            "labels": [
+                "A",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "E": 1
+            }
+        },
+        "150": {
+            "labels": [
+                "A",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "Q": 1
+            }
+        },
+        "151": {
+            "labels": [
+                "N",
+                "T",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.0844759507076889,
+            "percentages": [
+                94.44,
+                2.78,
+                2.78
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.36509898470588065,
+            "values": [
+                34,
+                1,
+                1
+            ],
+            "variability": {
+                "N": 34,
+                "R": 1,
+                "T": 1
+            }
+        },
+        "152": {
+            "labels": [
+                "V",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "R": 1,
+                "V": 35
+            }
+        },
+        "153": {
+            "labels": [
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "A": 36
+            }
+        },
+        "154": {
+            "labels": [
+                "E",
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 35,
+                "Y": 1
+            }
+        },
+        "155": {
+            "labels": [
+                "Q",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "Q": 35
+            }
+        },
+        "156": {
+            "labels": [
+                "R",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "R": 35
+            }
+        },
+        "157": {
+            "labels": [
+                "R",
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 1,
+                "R": 35
+            }
+        },
+        "158": {
+            "labels": [
+                "A",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "T": 1
+            }
+        },
+        "159": {
+            "labels": [
+                "Y",
+                "H",
+                "C"
+            ],
+            "normalised_shannon_entropy": 0.0844759507076889,
+            "percentages": [
+                94.44,
+                2.78,
+                2.78
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.36509898470588065,
+            "values": [
+                34,
+                1,
+                1
+            ],
+            "variability": {
+                "C": 1,
+                "H": 1,
+                "Y": 34
+            }
+        },
+        "160": {
+            "labels": [
+                "L",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 35,
+                "V": 1
+            }
+        },
+        "161": {
+            "labels": [
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "E": 36
+            }
+        },
+        "162": {
+            "labels": [
+                "G",
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 35,
+                "W": 1
+            }
+        },
+        "163": {
+            "labels": [
+                "T",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "T": 35
+            }
+        },
+        "164": {
+            "labels": [
+                "C",
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "C": 35,
+                "H": 1
+            }
+        },
+        "165": {
+            "labels": [
+                "V",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "R": 1,
+                "V": 35
+            }
+        },
+        "166": {
+            "labels": [
+                "E",
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 35,
+                "Y": 1
+            }
+        },
+        "167": {
+            "labels": [
+                "W",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "W": 35
+            }
+        },
+        "168": {
+            "labels": [
+                "L",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "L": 35
+            }
+        },
+        "169": {
+            "labels": [
+                "H",
+                "N"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "H": 35,
+                "N": 1
+            }
+        },
+        "170": {
+            "labels": [
+                "R",
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 1,
+                "R": 35
+            }
+        },
+        "171": {
+            "labels": [
+                "Y",
+                "K"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 1,
+                "Y": 35
+            }
+        },
+        "172": {
+            "labels": [
+                "L",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "L": 35
+            }
+        },
+        "173": {
+            "labels": [
+                "E",
+                "M"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 35,
+                "M": 1
+            }
+        },
+        "174": {
+            "labels": [
+                "N",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "N": 35
+            }
+        },
+        "175": {
+            "labels": [
+                "G",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 35,
+                "Q": 1
+            }
+        },
+        "176": {
+            "labels": [
+                "K",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 35,
+                "R": 1
+            }
+        },
+        "177": {
+            "labels": [
+                "E",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "E": 35
+            }
+        },
+        "178": {
+            "labels": [
+                "M",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "M": 35
+            }
+        },
+        "179": {
+            "labels": [
+                "L",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 35,
+                "P": 1
+            }
+        },
+        "180": {
+            "labels": [
+                "Q",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "P": 1,
+                "Q": 35
+            }
+        },
+        "181": {
+            "labels": [
+                "R",
+                "K"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 1,
+                "R": 35
+            }
+        },
+        "182": {
+            "labels": [
+                "A",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "T": 1
+            }
+        },
+        "183": {
+            "labels": [
+                "D",
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "H": 1
+            }
+        },
+        "184": {
+            "labels": [
+                "P",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "P": 35,
+                "V": 1
+            }
+        },
+        "185": {
+            "labels": [
+                "P",
+                "A",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.0844759507076889,
+            "percentages": [
+                94.44,
+                2.78,
+                2.78
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.36509898470588065,
+            "values": [
+                34,
+                1,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "P": 34,
+                "T": 1
+            }
+        },
+        "186": {
+            "labels": [
+                "K",
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "H": 1,
+                "K": 35
+            }
+        },
+        "187": {
+            "labels": [
+                "T",
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "H": 1,
+                "T": 35
+            }
+        },
+        "188": {
+            "labels": [
+                "H",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "H": 35,
+                "P": 1
+            }
+        },
+        "189": {
+            "labels": [
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "V": 36
+            }
+        },
+        "190": {
+            "labels": [
+                "T",
+                "F"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "F": 1,
+                "T": 35
+            }
+        },
+        "191": {
+            "labels": [
+                "H",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "H": 35
+            }
+        },
+        "192": {
+            "labels": [
+                "H",
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "H": 35,
+                "Y": 1
+            }
+        },
+        "193": {
+            "labels": [
+                "P",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "P": 35
+            }
+        },
+        "194": {
+            "labels": [
+                "V",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "V": 35
+            }
+        },
+        "195": {
+            "labels": [
+                "F",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "F": 35,
+                "T": 1
+            }
+        },
+        "196": {
+            "labels": [
+                "D",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "L": 1
+            }
+        },
+        "197": {
+            "labels": [
+                "Y",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "R": 1,
+                "Y": 35
+            }
+        },
+        "198": {
+            "labels": [
+                "E",
+                "C"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "C": 1,
+                "E": 35
+            }
+        },
+        "199": {
+            "labels": [
+                "A",
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "W": 1
+            }
+        },
+        "200": {
+            "labels": [
+                "T",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "T": 35
+            }
+        },
+        "201": {
+            "labels": [
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.0,
+            "percentages": [
+                100.0
+            ],
+            "rarities": [
+                "highly_conserved"
+            ],
+            "shannon_entropy": 0.0,
+            "values": [
+                36
+            ],
+            "variability": {
+                "L": 36
+            }
+        },
+        "202": {
+            "labels": [
+                "R",
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 1,
+                "R": 35
+            }
+        },
+        "203": {
+            "labels": [
+                "C",
+                "F"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "C": 35,
+                "F": 1
+            }
+        },
+        "204": {
+            "labels": [
+                "W",
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "W": 35,
+                "Y": 1
+            }
+        },
+        "205": {
+            "labels": [
+                "A",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "P": 1
+            }
+        },
+        "206": {
+            "labels": [
+                "L",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "L": 35
+            }
+        },
+        "207": {
+            "labels": [
+                "G",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "G": 35
+            }
+        },
+        "208": {
+            "labels": [
+                "F",
+                "I"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "F": 35,
+                "I": 1
+            }
+        },
+        "209": {
+            "labels": [
+                "Y",
+                "I"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "I": 1,
+                "Y": 35
+            }
+        },
+        "210": {
+            "labels": [
+                "P",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "P": 35
+            }
+        },
+        "211": {
+            "labels": [
+                "A",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "T": 1
+            }
+        },
+        "212": {
+            "labels": [
+                "E",
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 35,
+                "W": 1
+            }
+        },
+        "213": {
+            "labels": [
+                "I",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "I": 35,
+                "Q": 1
+            }
+        },
+        "214": {
+            "labels": [
+                "I",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "I": 35,
+                "R": 1
+            }
+        },
+        "215": {
+            "labels": [
+                "L",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "L": 35
+            }
+        },
+        "216": {
+            "labels": [
+                "T",
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 1,
+                "T": 35
+            }
+        },
+        "217": {
+            "labels": [
+                "W",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "W": 35
+            }
+        },
+        "218": {
+            "labels": [
+                "Q",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "Q": 35
+            }
+        },
+        "219": {
+            "labels": [
+                "R",
+                "Q",
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.14215170460922913,
+            "percentages": [
+                88.89,
+                5.56,
+                5.56
+            ],
+            "rarities": [
+                "conserved",
+                "only_two",
+                "only_two"
+            ],
+            "shannon_entropy": -0.6143694458867568,
+            "values": [
+                32,
+                2,
+                2
+            ],
+            "variability": {
+                "Q": 2,
+                "R": 32,
+                "W": 2
+            }
+        },
+        "220": {
+            "labels": [
+                "D",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "T": 1
+            }
+        },
+        "221": {
+            "labels": [
+                "G",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 35,
+                "Q": 1
+            }
+        },
+        "222": {
+            "labels": [
+                "E",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "E": 35
+            }
+        },
+        "223": {
+            "labels": [
+                "D",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "V": 1
+            }
+        },
+        "224": {
+            "labels": [
+                "Q",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "Q": 35
+            }
+        },
+        "225": {
+            "labels": [
+                "T",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "T": 35
+            }
+        },
+        "226": {
+            "labels": [
+                "Q",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "Q": 35,
+                "V": 1
+            }
+        },
+        "227": {
+            "labels": [
+                "D",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "E": 1
+            }
+        },
+        "228": {
+            "labels": [
+                "V",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "T": 1,
+                "V": 35
+            }
+        },
+        "229": {
+            "labels": [
+                "E",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 35,
+                "R": 1
+            }
+        },
+        "230": {
+            "labels": [
+                "L",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 35,
+                "P": 1
+            }
+        },
+        "231": {
+            "labels": [
+                "V",
+                "M",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.0844759507076889,
+            "percentages": [
+                94.44,
+                2.78,
+                2.78
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.36509898470588065,
+            "values": [
+                34,
+                1,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "M": 1,
+                "V": 34
+            }
+        },
+        "232": {
+            "labels": [
+                "E",
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 35,
+                "G": 1
+            }
+        },
+        "233": {
+            "labels": [
+                "T",
+                "D"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 1,
+                "T": 35
+            }
+        },
+        "234": {
+            "labels": [
+                "R",
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 1,
+                "R": 35
+            }
+        },
+        "235": {
+            "labels": [
+                "P",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "P": 35,
+                "T": 1
+            }
+        },
+        "236": {
+            "labels": [
+                "A",
+                "F"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "F": 1
+            }
+        },
+        "237": {
+            "labels": [
+                "G",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 35,
+                "Q": 1
+            }
+        },
+        "238": {
+            "labels": [
+                "D",
+                "K"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "D": 35,
+                "K": 1
+            }
+        },
+        "239": {
+            "labels": [
+                "G",
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 35,
+                "W": 1
+            }
+        },
+        "240": {
+            "labels": [
+                "T",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "T": 35
+            }
+        },
+        "241": {
+            "labels": [
+                "F",
+                "A"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 1,
+                "F": 35
+            }
+        },
+        "242": {
+            "labels": [
+                "Q",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "Q": 35,
+                "V": 1
+            }
+        },
+        "243": {
+            "labels": [
+                "K",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 35,
+                "V": 1
+            }
+        },
+        "244": {
+            "labels": [
+                "W",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "V": 1,
+                "W": 35
+            }
+        },
+        "245": {
+            "labels": [
+                "A",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "P": 1
+            }
+        },
+        "246": {
+            "labels": [
+                "A",
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "A": 35,
+                "S": 1
+            }
+        },
+        "247": {
+            "labels": [
+                "V",
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 1,
+                "V": 35
+            }
+        },
+        "248": {
+            "labels": [
+                "V",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "V": 35
+            }
+        },
+        "249": {
+            "labels": [
+                "V",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "V": 35
+            }
+        },
+        "250": {
+            "labels": [
+                "P",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "P": 35,
+                "Q": 1
+            }
+        },
+        "251": {
+            "labels": [
+                "S",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "R": 1,
+                "S": 35
+            }
+        },
+        "252": {
+            "labels": [
+                "G",
+                "Y"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 35,
+                "Y": 1
+            }
+        },
+        "253": {
+            "labels": [
+                "E",
+                "T"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 35,
+                "T": 1
+            }
+        },
+        "254": {
+            "labels": [
+                "E",
+                "C"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "C": 1,
+                "E": 35
+            }
+        },
+        "255": {
+            "labels": [
+                "Q",
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "H": 1,
+                "Q": 35
+            }
+        },
+        "256": {
+            "labels": [
+                "R",
+                "V"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "R": 35,
+                "V": 1
+            }
+        },
+        "257": {
+            "labels": [
+                "Y",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "Q": 1,
+                "Y": 35
+            }
+        },
+        "258": {
+            "labels": [
+                "T",
+                "M",
+                "H"
+            ],
+            "normalised_shannon_entropy": 0.17546786417390503,
+            "percentages": [
+                83.33,
+                13.89,
+                2.78
+            ],
+            "rarities": [
+                "majority",
+                "only_five",
+                "unique"
+            ],
+            "shannon_entropy": -0.7583594919230799,
+            "values": [
+                30,
+                5,
+                1
+            ],
+            "variability": {
+                "H": 1,
+                "M": 5,
+                "T": 30
+            }
+        },
+        "259": {
+            "labels": [
+                "C",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "C": 35,
+                "E": 1
+            }
+        },
+        "260": {
+            "labels": [
+                "H",
+                "G"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 1,
+                "H": 35
+            }
+        },
+        "261": {
+            "labels": [
+                "V",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "V": 35
+            }
+        },
+        "262": {
+            "labels": [
+                "Q",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "P": 1,
+                "Q": 35
+            }
+        },
+        "263": {
+            "labels": [
+                "H",
+                "E"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "H": 35
+            }
+        },
+        "264": {
+            "labels": [
+                "E",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 35,
+                "P": 1
+            }
+        },
+        "265": {
+            "labels": [
+                "G",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "G": 35,
+                "L": 1
+            }
+        },
+        "266": {
+            "labels": [
+                "L",
+                "M"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 35,
+                "M": 1
+            }
+        },
+        "267": {
+            "labels": [
+                "P",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "P": 35
+            }
+        },
+        "268": {
+            "labels": [
+                "E",
+                "R"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "E": 35,
+                "R": 1
+            }
+        },
+        "269": {
+            "labels": [
+                "P",
+                "S",
+                "W"
+            ],
+            "normalised_shannon_entropy": 0.0844759507076889,
+            "percentages": [
+                94.44,
+                2.78,
+                2.78
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.36509898470588065,
+            "values": [
+                34,
+                1,
+                1
+            ],
+            "variability": {
+                "P": 34,
+                "S": 1,
+                "W": 1
+            }
+        },
+        "270": {
+            "labels": [
+                "L",
+                "K"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "K": 1,
+                "L": 35
+            }
+        },
+        "271": {
+            "labels": [
+                "M",
+                "Q"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "M": 35,
+                "Q": 1
+            }
+        },
+        "272": {
+            "labels": [
+                "L",
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 35,
+                "S": 1
+            }
+        },
+        "273": {
+            "labels": [
+                "R",
+                "S"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "R": 35,
+                "S": 1
+            }
+        },
+        "274": {
+            "labels": [
+                "W",
+                "L"
+            ],
+            "normalised_shannon_entropy": 0.042370456953691,
+            "percentages": [
+                97.22,
+                2.78
+            ],
+            "rarities": [
+                "highly_conserved",
+                "unique"
+            ],
+            "shannon_entropy": -0.18312206830137276,
+            "values": [
+                35,
+                1
+            ],
+            "variability": {
+                "L": 1,
+                "W": 35
+            }
+        },
+        "275": {
+            "labels": [
+                "K",
+                "E",
+                "P"
+            ],
+            "normalised_shannon_entropy": 0.10528186721054711,
+            "percentages": [
+                92.59,
+                3.7,
+                3.7
+            ],
+            "rarities": [
+                "conserved",
+                "unique",
+                "unique"
+            ],
+            "shannon_entropy": -0.45502065977946415,
+            "values": [
+                25,
+                1,
+                1
+            ],
+            "variability": {
+                "E": 1,
+                "K": 25,
+                "P": 1
+            }
+        }
+    }
+}
